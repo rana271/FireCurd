@@ -1,0 +1,7 @@
+{
+  "name": "FireBaseCURD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
